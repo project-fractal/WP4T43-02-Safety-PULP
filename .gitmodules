@@ -1,0 +1,3 @@
+[submodule "redundancy_cells"]
+	path = redundancy_cells
+	url = https://github.com/pulp-platform/redundancy_cells.git
